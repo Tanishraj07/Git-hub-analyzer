@@ -49,9 +49,11 @@ streamlit run test.py
 
 ## Screenshots
 
-![Main Interface](screenshots/main_interface.png)
-![Repository Analysis](screenshots/repository_analysis.png)
-![Activity Trends](screenshots/activity_trends.png)
+![Main Interface](screenshots/main.jpeg)
+![Repository Analysis](screenshots/metadata.jpeg)
+![Activity Trends](screenshots/activity.jpeg)
+![Contributors](screenshots/contributors.jpeg)
+![Statistics](screenshots/statistics.jpeg)
 
 ## Project Structure
 
